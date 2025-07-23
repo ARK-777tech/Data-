@@ -1,2 +1,2 @@
 # Data-
-Lets code and learn the 'DATA'
+Lets code and learn about the 'DATA'
